@@ -6019,7 +6019,7 @@
             "time": "2015-05-30T15:59:26+00:00"
         },
         {
-            "name": "wadeshuler/php-paypal-ipn",
+            
             "version": "2.5.2",
             "source": {
                 "type": "git",
